@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "SPVYAACHap0p5bHELUM_lIKiKd1ozZjw0Ri1GGcrYeg",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o4K8m6L8Th-kXA7phOJAkKdiaoEk"],
+"user": ["o4K8m6L8Th-kXA7phOJAkKdiaoEk","o4K8m6NPEf-zKfAlgJ6T0Ckm9Eec"],
  
 # 信息配置
 # 和风天气apikey
@@ -17,7 +17,7 @@
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "邵齐祥", "birthday": "2001-01-01"},
 # 生日2
-"birthday2": {"name": "邵齐祥", "birthday": "2001-01-01"},
+"birthday2": {"name": "牛马勾勾", "birthday": "2001-06-01"},
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-01-01",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
